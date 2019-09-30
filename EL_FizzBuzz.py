@@ -1,3 +1,4 @@
+#This program prompts the user for an integer and performs the classic FizzBuzz behaviour until that integer. 
 print ("Do you want to proceed? Enter Y for yes or N for no:")
 user_decision = input()
 while user_decision=="Y":
